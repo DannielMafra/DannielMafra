@@ -17,7 +17,8 @@ Análise da correlação entre os ativos antes e depois da pandemia.
 Utilização de gráficos de desempenho para avaliar a recuperação de ativos após eventos de crise.
 Conclusões com base em indicadores como volatilidade e retorno médio.
 Links: https://docs.google.com/spreadsheets/d/13CWAj3u5gwK4MJjizIba1RUTvTrNdnDG/edit?usp=sharing&ouid=100860256640763051994&rtpof=true&sd=true
-[Clique aqui para acessar o arquivo da análise de rentabilidade da carteira de investimentos](analise_carteira_investimentos/SeuArquivoExcel.xlsx)
+
+[Clique aqui para acessar o arquivo da análise de rentabilidade da carteira de investimentos](analise_carteira_investimentos/AnalisedeRentabilidadeDeCarteirasdeInvestimentos.xlsx)
 
 
 ## 🛠️ Habilidades
