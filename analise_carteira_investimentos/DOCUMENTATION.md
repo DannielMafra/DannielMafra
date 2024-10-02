@@ -47,4 +47,4 @@ Os principais cálculos feitos incluem:
 
 ## Contato
 Se você tiver qualquer dúvida ou quiser discutir mais sobre a análise, entre em contato:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn](www.linkedin.com/in/danniel-mafra)
